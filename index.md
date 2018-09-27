@@ -66,13 +66,14 @@ __Natural Language Processing in Clothing Reviews__
 
 ## Skills
 
-__PROGRAMMING:__ Python, SQL <br/>
+__PROGRAMMING:__ Python, SQL, Java <br/>
 __WEB DEVELOPMENT:__ HTML, CSS, AWS <br/>
 __DATA VISUALIZATION:__ Tableau, Matplotlib, Plotly, Seaborn <br/>
 __STATISTIC:__ A/B testing <br/>
 __MACHINE LEARNING:__ Scikit­learn, Pandas, Numpy, Nature Language Processing <br/>
 
-### WORK AUTHORIZATION
+
+## WORK AUTHORIZATION
 
 Legally authorized to work in the United States
 
