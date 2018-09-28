@@ -43,7 +43,7 @@ __Data Analyst Intern__, Spring Rain Software, Beijing
 - Processed annotation & data analysis tasks to verify user identity, and accomplished 3 times more than the assigned KPIs.
 - Assisted in online promotion planning, and increased orders by 40% during the internship.
 
-## Projects
+## Project
 
 __Real-Time Tweets Analysis Dashboard__
 - Established data ETL pipeline to gather and clean the recent one week tweets(Twitter API limit) concerning the query typed in real time
@@ -73,7 +73,7 @@ __STATISTIC:__ A/B testing <br/>
 __MACHINE LEARNING:__ Scikit­learn, Pandas, Numpy, Nature Language Processing <br/>
 
 
-## WORK AUTHORIZATION
+## Work Authorization
 
 Legally authorized to work in the United States
 
